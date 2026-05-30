@@ -8,8 +8,8 @@ A clean, production-grade task manager with JWT authentication and a three-stage
 
 | Service   | URL |
 |-----------|-----|
-| Frontend  | *(add your Vercel URL after deployment)* |
-| Backend   | *(add your Render URL after deployment)* |
+| Frontend  | *https://task-manager-indpro.vercel.app/* |
+| Backend   | *https://task-manager-indpro.onrender.com* |
 
 ---
 
