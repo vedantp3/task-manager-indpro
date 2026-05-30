@@ -142,13 +142,13 @@ npm run dev            # starts on http://localhost:5173
 3. Set **Root Directory** to `backend`
 4. Build command: `npm install`  |  Start command: `node server.js`
 5. Add all backend environment variables in **Render → Environment**
-6. Deploy — note your `https://your-app.onrender.com` URL
+6. Deploy — note your `https://task-manager-indpro.onrender.com` URL
 
 ### 3. Frontend — Vercel
 1. Import the repo at [vercel.com](https://vercel.com)
 2. Set **Root Directory** to `frontend`, Framework to **Vite**
 3. Set `VITE_API_URL` to your Render backend URL
-4. Deploy — note your `https://your-app.vercel.app` URL
+4. Deploy — note your `https://task-manager-indpro.vercel.app/` URL
 5. **Update** `CLIENT_ORIGIN` in Render to match the Vercel URL and redeploy
 
 ---
