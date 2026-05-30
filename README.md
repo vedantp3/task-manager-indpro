@@ -22,14 +22,6 @@ A clean, production-grade task manager with JWT authentication and a three-stage
 - **Responsive** — Three-column grid on desktop, single-column stacked on mobile (≤640px)
 - **Optimistic UX** — Loading skeletons, submit spinners, inline delete confirmation, global error toast
 
----
-
-## 🖼️ Screenshots
-
-> *(Add screenshots after deployment — `docs/screenshot-dashboard.png`, `docs/screenshot-login.png`)*
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer      | Technology |
